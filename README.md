@@ -1,3 +1,4 @@
+<p align="center"><img src="https://user-images.githubusercontent.com/68486607/108017533-79555300-7058-11eb-9edc-8cf241e27394.png" width="600"></p>
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
